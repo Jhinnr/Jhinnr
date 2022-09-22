@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Jhinnr
-- 👀 I’m interested in coding
-- 🌱 I’m currently a law student
+
